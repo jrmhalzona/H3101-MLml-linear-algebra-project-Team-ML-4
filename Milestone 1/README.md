@@ -103,3 +103,23 @@ The **Final Cleaned Data** files are the official datasets to use for Milestone 
 The numbers and results in the Milestone 1 report should be based on these final datasets and the results shown in the preprocessing notebook.
 
 The folders are organized so that the original data, final cleaned data, and Python notebook can be easily found and reviewed by the team and mentor.
+
+## EDA Graphs
+
+The preprocessing notebook contains simple graphs and analysis for the Milestone 1 EDA.
+
+These include graphs for:
+- Customer age distribution
+- Gender distribution
+- Income level distribution
+- Product category distribution
+- Payment method distribution
+- Social media platform distribution
+- Interaction type distribution
+- Sentiment distribution
+- Transaction amount distribution
+- Transaction amount spread
+- Average transaction amount by product category
+- Transactions by year
+
+Additional graphs prepared by team members may also be used in the final Milestone 1 report after checking that they use the correct dataset version.
